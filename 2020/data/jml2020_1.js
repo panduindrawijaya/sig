@@ -1,0 +1,32 @@
+var json_jml2020_1 = {
+"type": "FeatureCollection",
+"name": "jml2020_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "rowosari", "jml_hidup": "622", "jml_mati": "1" }, "geometry": { "type": "Point", "coordinates": [ 109.526197568121887, -6.813073919047183 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "mojo", "jml_hidup": "1491", "jml_mati": "1" }, "geometry": { "type": "Point", "coordinates": [ 109.548413413337542, -6.851710171596132 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "purwoharjo", "jml_hidup": "956", "jml_mati": "3" }, "geometry": { "type": "Point", "coordinates": [ 109.52136803655327, -6.86426695367454 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "sarwodadi", "jml_hidup": "625", "jml_mati": "3" }, "geometry": { "type": "Point", "coordinates": [ 109.531993006004228, -6.882619173635291 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "petarukan", "jml_hidup": "980", "jml_mati": "3" }, "geometry": { "type": "Point", "coordinates": [ 109.473072720867094, -6.836255670576552 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "karangasem", "jml_hidup": "846", "jml_mati": "1" }, "geometry": { "type": "Point", "coordinates": [ 109.466311376671015, -6.87972145469412 ] } },
+{ "type": "Feature", "properties": { "id": "3", "nama puske": "klareyan", "jml_hidup": "1429", "jml_mati": "0" }, "geometry": { "type": "Point", "coordinates": [ 109.471140908239633, -6.91352817567445 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "losari", "jml_hidup": "1201", "jml_mati": "9" }, "geometry": { "type": "Point", "coordinates": [ 109.511708973416034, -6.896141862027423 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "banjardawa", "jml_hidup": "933", "jml_mati": "12" }, "geometry": { "type": "Point", "coordinates": [ 109.422845592553458, -6.868130578929435 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "tabunan", "jml_hidup": "934", "jml_mati": "6" }, "geometry": { "type": "Point", "coordinates": [ 109.418981967298564, -6.901937299909766 ] } },
+{ "type": "Feature", "properties": { "id": "3", "nama puske": "jebed", "jml_hidup": "1223", "jml_mati": "3" }, "geometry": { "type": "Point", "coordinates": [ 109.427675124122075, -6.937675833517543 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "kebandaran", "jml_hidup": "463", "jml_mati": "2" }, "geometry": { "type": "Point", "coordinates": [ 109.486595409259223, -6.98597114920373 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "jatiroyom", "jml_hidup": "504", "jml_mati": "3L" }, "geometry": { "type": "Point", "coordinates": [ 109.468243189298462, -7.057448216419287 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "paduraksa", "jml_hidup": "873", "jml_mati": "4" }, "geometry": { "type": "Point", "coordinates": [ 109.372618464239821, -6.884550986262738 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "mulyoharjo", "jml_hidup": "1263", "jml_mati": "0" }, "geometry": { "type": "Point", "coordinates": [ 109.362959401102586, -6.930914489321477 ] } },
+{ "type": "Feature", "properties": { "id": "3", "nama puske": "kebondalem", "jml_hidup": "1153", "jml_mati": "0" }, "geometry": { "type": "Point", "coordinates": [ 109.35040261902418, -6.963755303988084 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "bantarbolang", "jml_hidup": "1430", "jml_mati": "0" }, "geometry": { "type": "Point", "coordinates": [ 109.391936590514291, -7.032334652262469 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "randudongkal", "jml_hidup": "1008", "jml_mati": "8" }, "geometry": { "type": "Point", "coordinates": [ 109.308868647534055, -7.02460740175268 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "kalimas", "jml_hidup": "905", "jml_mati": "2" }, "geometry": { "type": "Point", "coordinates": [ 109.311766366475226, -7.069039092183972 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "warungpring", "jml_hidup": "723", "jml_mati": "0" }, "geometry": { "type": "Point", "coordinates": [ 109.266368769730207, -7.077732249007485 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "banyumudal", "jml_hidup": "1438", "jml_mati": "2" }, "geometry": { "type": "Point", "coordinates": [ 109.241255205573395, -7.116368501556434 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "pulosari", "jml_hidup": "1144", "jml_mati": "7" }, "geometry": { "type": "Point", "coordinates": [ 109.221937079298911, -7.176254693007306 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "belik", "jml_hidup": "1966", "jml_mati": "5" }, "geometry": { "type": "Point", "coordinates": [ 109.322391335926184, -7.13858434677208 ] } },
+{ "type": "Feature", "properties": { "id": "1", "nama puske": "watukumpul", "jml_hidup": "672", "jml_mati": "3" }, "geometry": { "type": "Point", "coordinates": [ 109.416084248357393, -7.125061658379948 ] } },
+{ "type": "Feature", "properties": { "id": "2", "nama puske": "cikadu", "jml_hidup": "706", "jml_mati": "2" }, "geometry": { "type": "Point", "coordinates": [ 109.467277282984739, -7.150175222536765 ] } }
+]
+}
